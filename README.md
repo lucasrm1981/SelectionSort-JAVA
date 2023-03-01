@@ -3,8 +3,8 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/Java-Light.svg">
      </div></div>
 # SelectionSort-JAVA
-Algoritmo de Ordenação Selection Sort em JAVA
-<h1>SelectionSort</h1>
+
+<h1>Algoritmo de Ordenação Selection Sort em JAVA</h1>
 <p>No InsertionSort vimos uma ordenação simples, já no SelectionSort a implementação torna-se mais simples ainda, porém perdemos muito com o desempenho.</p> 
 <p>Este algoritmo tem por objetivo passar sempre o menor valor para a primeira posição (dependendo da ordem requerida pode ser o maior valor). </p>
 <p>Então, para que isso seja feito ele percorre todos os elementos procurando um menor valor para só então colocá-lo na primeira posição, repetindo essa tarefa para cada 
